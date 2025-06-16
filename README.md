@@ -1,21 +1,22 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Incident Response and Resilience</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This lesson introduces students to the fundamentals of incident management and how engineering teams detect, respond to, and recover from production failures. Students will learn how to navigate incidents using real-world workflows and will practice writing effective postmortems as a tool for building system resilience. The session emphasizes root cause analysis, communication during outages, and the importance of iterative learning after failure.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| Lesson                                                                                   | Est. Delivery Time | Skills                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Introduction to Incident Management](./introduction-to-incident-management/README.md)   |       20 min       | Explain the goals and key phases of incident management.                                                                                                     |
+| [Detecting and Interpreting Incidents](./detecting-and-interpreting-incidents/README.md) |       20 min       | Identify signals of failure and interpret alerts or symptoms.                                                                                                |
+| [Incident Response Workflow](./incident-response-workflow/README.md)                     |       25 min       | Follow a basic response workflow from detection to mitigation and recovery, and identify follow-up actions that improve system resilience after an incident. |
+| [The Anatomy of a Postmortem](./the-anatomy-of-a-postmortem/README.md)                   |       10 min       | Understand the purpose and structure of a postmortem document.                                                                                               |
+| [Crafting an Effective Postmortem](./crafting-an-effective-postmortem/README.md)         |       15 min       | Write a clear, blameless postmortem using a structured template.                                                                                             |
+| **Total content**                                                                        |       90 min       |                                                                                                                                                              |
 
 ## References
 
@@ -25,32 +26,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [PTR - Python Testing & Reliability](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/incidence-response-and-resilience/canvas-landing-pages/ptr.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/incidence-response-and-resilience/canvas-landing-pages/fallback.html)
 
 ### Resources
 

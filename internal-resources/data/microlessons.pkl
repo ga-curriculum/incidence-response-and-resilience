@@ -2,30 +2,37 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+introductionToIncidentManagement = new Template.Microlesson {
+  friendlyName = "Introduction to Incident Management"
+  dirName = "introduction-to-incident-management"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+detectingAndInterpretingIncidents = new Template.Microlesson {
+  friendlyName = "Detecting and Interpreting Incidents"
+  dirName = "detecting-and-interpreting-incidents"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+incidentResponseWorkflow = new Template.Microlesson {
+  friendlyName = "Incident Response Workflow"
+  dirName = "incident-response-workflow"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+theAnatomyOfAPostmortem = new Template.Microlesson {
+  friendlyName = "The Anatomy of a Postmortem"
+  dirName = "the-anatomy-of-a-postmortem"
+  type = "Content"
+  videoUrl = ""
+}
+
+craftingAnEffectivePostmortem = new Template.Microlesson {
+  friendlyName = "Crafting an Effective Postmortem"
+  dirName = "crafting-an-effective-postmortem"
   type = "Content"
   videoUrl = ""
 }
