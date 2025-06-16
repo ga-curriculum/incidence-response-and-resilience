@@ -93,7 +93,7 @@ Root cause analysis pushes you to dig deeper than the surface. The â€œFive Whysâ
 
 This series of questions moves from immediate symptoms to underlying causes, which are often fixable at the process or documentation level.
 
-<div class="activity guided-walkthrough">
+<div class="activity solo-exercise">
   <h2 class="title">Drafting a structured, blameless postmortem</h2>
   <span class="minutes">10 min</span>
 </div>

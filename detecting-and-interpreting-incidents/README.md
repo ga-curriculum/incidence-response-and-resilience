@@ -123,7 +123,6 @@ When an alert arrives, use these guiding questions to decide what to do next:
 - How would your response differ compared to receiving just one of these alerts?
 - What steps would you prioritize, and who would you notify first?
 
-_(Pause and discuss with a peer, or write down your approach. Think about how overlapping signals change your investigation.)_
 
 <div class="activity partner-exercise">
   <h2 class="title">Triage and interpret sample incident scenarios</h2>
